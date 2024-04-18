@@ -120,4 +120,8 @@ public class GerenciadordeUsuarios {
 			}
 		}
 	}
+
+	public Usuario buscarUsuario(int id) {
+		return null;
+	}
 }
